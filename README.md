@@ -44,11 +44,15 @@ Coloque o nome na barra de pesquisa do aplicativo Google Store
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 24/05/2024
+* 0.1.0 - 30/10/2024
     * Primeiro lançamento do projeto
-* 0.0.1 - 12/03/2024
-    * Projeto em andamento
+
 
 ## 🎨 Design
 
  <a href="https://www.figma.com/design/P3df5yE6b7cFWiy9RPRXfB/Untitled?node-id=0-1&node-type=canvas&t=Y5n7rD7uuzvtS4w3-0">Figma</a>
+
+
+## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
