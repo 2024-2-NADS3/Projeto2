@@ -12,8 +12,9 @@
 ## Descrição
 <p aling = "center">
 O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário - Fundação Escola de Comércio Álvares Penteado (FECAP). O objetivo do projeto é facilitar e incentivar o hábito de ajudar o próximo, conectando pessoas dispostas a doar com Organizações Não Governamentais (ONGs) que precisam de apoio. Com uma experiência simples e segura, o Escolha Solidária possibilita que qualquer pessoa contribua para causas sociais de forma rápida e acessível.
+  <br><br>
 
 
-# Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
