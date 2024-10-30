@@ -35,7 +35,7 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
 ## 🛠 Instalação
 
 
-<b>React:</b>
+<b>App:</b>
 
 ```sh
 Escolha solidária
