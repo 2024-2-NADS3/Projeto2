@@ -18,3 +18,37 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
+
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->ModelagemSoftArqSistemas_PI.docx<br> &emsp;|-->PROPOSTA_DE_PROJETO_DE_EXTENSÃO.PDF<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+  &emsp;|-->Banco de dados<br>
+|-->readme.md<br>
+
+
+## 🛠 Instalação
+
+
+<b>React:</b>
+
+```sh
+Escolha solidária
+Coloque o nome na barra de pesquisa do aplicativo Google Store
+```
+
+## 🗃 Histórico de lançamentos
+
+* 0.1.0 - 24/05/2024
+    * Primeiro lançamento do projeto
+* 0.0.1 - 12/03/2024
+    * Projeto em andamento
+
+## 🎨 Design
+
+ <a href="https://www.figma.com/design/P3df5yE6b7cFWiy9RPRXfB/Untitled?node-id=0-1&node-type=canvas&t=Y5n7rD7uuzvtS4w3-0">Figma</a>
