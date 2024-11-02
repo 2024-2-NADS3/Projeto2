@@ -7,7 +7,7 @@
 # Los chanchos
 ## Escolha Solidária 💊👕🍖
 <p align="center">
-<a href= "https://www.fecap.br/">"</a>
+<a href= "https://www.fecap.br/"></a>
 
 ## Descrição
 <p aling = "center">
