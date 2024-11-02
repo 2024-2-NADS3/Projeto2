@@ -15,9 +15,12 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
   <br><br>
 
 
-## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
+## Integrantes
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
+<a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
+
+## Professores Orientadores
+<a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
 
 ## 🛠 Estrutura de pastas
 
