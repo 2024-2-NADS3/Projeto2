@@ -7,7 +7,7 @@
 # Los chanchos
 ## Escolha Solidária 💊👕🍖
 <p align="center">
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado](https://cdn.discordapp.com/attachments/1169428045979988009/1301328857143709696/Escolha_solidaria_definitivo.jpeg?ex=6726b771&is=672565f1&hm=979bbffd695932b595f364a6a700f090c495a078e3bbcfceb775ed2ff29c171a&)" border="0"></a>
+<img src="https://cdn.discordapp.com/attachments/1169428045979988009/1301328857143709696/Escolha_solidaria_definitivo.jpeg?ex=6726b771&is=672565f1&hm=979bbffd695932b595f364a6a700f090c495a078e3bbcfceb775ed2ff29c171a&"></a>
 
 ## Descrição
 <p aling = "center">
