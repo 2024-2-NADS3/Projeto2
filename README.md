@@ -7,7 +7,7 @@
 # Los chanchos
 ## Escolha Solidária 💊👕 🍎 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1169428045979988009/1301328857143709696/Escolha_solidaria_definitivo.jpeg?ex=6726b771&is=672565f1&hm=979bbffd695932b595f364a6a700f090c495a078e3bbcfceb775ed2ff29c171a&"></a>
+<img src="https://github.com/2024-2-NADS3/Projeto2/blob/main/Documents/Entrega%203/Icone.jpeg"></a>
 
 ## Descrição
 <p aling = "center">
