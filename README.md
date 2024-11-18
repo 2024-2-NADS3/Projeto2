@@ -58,18 +58,18 @@ Coloque o nome na barra de pesquisa do aplicativo Google Store
     * Implementação inicial da estrutura do aplicativo.
     * Funcionalidade de cadastro de ONGs e tipos de doações (alimentos, roupas, livros, etc.).
     * Tela inicial com opção de seleção do tipo de doação e exibição de ONGs correspondentes.
-  * 0.3.0 - 15/10/2024
+ * 0.3.0 - 15/10/2024
     * Front-end finalizado com interface responsiva e intuitiva.
     * Banco de dados estruturado e implementado.
     * Backend/API em andamento, com início da integração de funcionalidades principais.
     * Melhorias no desempenho e carregamento de dados das ONGs.
-   * 0.4.0 - 01/11/2024
+ * 0.4.0 - 01/11/2024
      * Backend/API finalizados e integrados ao front-end.
      * Adição de imagens e outros requisitos para publicação na Play Store.
      * Implementação de funcionalidades para conformidade com a LGPD (Lei Geral de Proteção de Dados)
      * Inclusão de formulário e informações exigidas para registro na Play Store.
      * Finalização do histórico de doações e contas de usuário.
-  * 1.0.0 - 18/11/2024
+ * 1.0.0 - 18/11/2024
     * Projeto finalizado e disponibilizado para download na Play Store.
     * Apresentação oficial do projeto montada e concluída para a data de 21/11/2024.
   
