@@ -17,7 +17,7 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
 
 ## Integrantes
 
-<a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a> e <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a>
+<a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/murilo-dias-32b13a327/">Murilo Dias</a>, <a href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Vinícius Brandão</a> e <a href="https://www.linkedin.com/in/heitor-nolasco-527b1026a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> Heitor Nolasco</a>.
 
 ## Professores Orientadores
 <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
