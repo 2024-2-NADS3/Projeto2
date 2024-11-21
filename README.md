@@ -36,7 +36,7 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
   &emsp;|--> Imagens tablet/celular <br>
 |-->Src<br>
   &emsp;|-->FrontEnd-BackEnd<br>
-      &emsp;|--> APK <br>
+      &emsp;&emsp;|--> APK <br>
   &emsp;|-->API<br>
   &emsp;|-->Banco de dados<br>
 |-->readme.md<br>
@@ -76,7 +76,7 @@ Coloque o nome na barra de pesquisa do aplicativo Google Store.
      * Inclusão de formulário e informações exigidas para registro na Play Store.
      * Finalização do histórico de doações e contas de usuário.
  * 1.0.0 - 18/11/2024
-    * Projeto finalizado e disponibilizado para download na Play Store.
+    * Projeto finalizado e disponibilizado para download na Play Store.*
     * Apresentação oficial do projeto montada e concluída para a data de 21/11/2024.
   
 
