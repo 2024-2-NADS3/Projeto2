@@ -5,7 +5,7 @@
 </p>
 
 # Los chanchos
-## Escolha Solidária 💊👕 🍎 
+## Escolha Solidária 💊📚🍎 
 <p align="center">
 <img src="https://github.com/2024-2-NADS3/Projeto2/blob/main/Documents/Entrega%203/Icone.jpeg"></a>
 
@@ -83,3 +83,7 @@ Coloque o nome na barra de pesquisa do aplicativo Google Store
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
+
+1. https://developer.android.com/?hl=pt-br
+2. https://brasil.un.org/pt-br/sdgs
+3. https://www.paraquemdoar.com.br/
