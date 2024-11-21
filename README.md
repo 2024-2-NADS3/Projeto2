@@ -95,3 +95,4 @@ Aqui estão as referências usadas no projeto.
 1. https://developer.android.com/?hl=pt-br
 2. https://brasil.un.org/pt-br/sdgs
 3. https://www.paraquemdoar.com.br/
+4. https://docs.oracle.com/en/java/
