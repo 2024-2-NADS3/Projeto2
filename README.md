@@ -27,12 +27,12 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
 -Raiz<br>
 |<br>
 |-->Documents<br>
-  &emsp;|--> Cloud Native
-  &emsp;|--> Entrega 3
-  &emsp;|--> Programação Mobile/Telas
-  &emsp;|--> Teste de software
-  &emsp;|--> User Experience
-  
+  &emsp;|--> Cloud Native <br>
+  &emsp;|--> Entrega 3 <br>
+  &emsp;|--> Programação Mobile/Telas <br>
+  &emsp;|--> Teste de software <br>
+  &emsp;|--> User Experience <br>
+   
 |-->Images<br>
 |-->Src<br>
   &emsp;|-->FrontEnd-BackEnd<br>
