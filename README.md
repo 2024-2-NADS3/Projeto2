@@ -49,7 +49,7 @@ O Escolha Solidária é um aplicativo desenvolvido por estudantes do curso de An
 
 ```sh
 Escolha solidária
-Coloque o nome na barra de pesquisa do aplicativo Google Store
+Coloque o nome na barra de pesquisa do aplicativo Google Store.
 ```
 
 ## 🗃 Histórico de lançamentos
@@ -83,7 +83,9 @@ Coloque o nome na barra de pesquisa do aplicativo Google Store
 
 ## 🎨 Design
 
- <a href="https://www.figma.com/design/P3df5yE6b7cFWiy9RPRXfB/Untitled?node-id=0-1&node-type=canvas&t=Y5n7rD7uuzvtS4w3-0">Figma</a>
+Aqui está o desing final utilizado em nosso projeto.
+
+<a href="https://www.figma.com/design/P3df5yE6b7cFWiy9RPRXfB/Untitled?node-id=0-1&node-type=canvas&t=Y5n7rD7uuzvtS4w3-0">Figma</a>
 
 
 ## 🎓 Referências
